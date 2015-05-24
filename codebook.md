@@ -1,4 +1,5 @@
-| Tidy        | Columns         |
+### CodeBook
+| Column        | Description         |
 | ------------- |:-------------:|
 | Subject | Subject number
 | Activity | Type of activity done |
