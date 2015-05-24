@@ -1,4 +1,3 @@
-
 tidy_data columns
 Subject						Subject number
 Activity					Type of activity done
@@ -67,4 +66,4 @@ fBodyBodyAccJerkMag.std..	Frequency Body Acceleration Jerk Magnitude Std
 fBodyBodyGyroMag.mean..		Frequency Body Gyro Magnitude Mean 
 fBodyBodyGyroMag.std..		Frequency Body Gyro Magnitude Std 
 fBodyBodyGyroJerkMag.mean..	Frequency Body Gyro Jerk Magnitude Mean 
-fBodyBodyGyroJerkMag.std..	Frequency Body Gyro Jerk Magnitude Std 
+fBodyBodyGyroJerkMag.std..	Frequency Body Gyro Jerk Magnitude Std
