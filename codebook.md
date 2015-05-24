@@ -1,4 +1,4 @@
-tidy_data columns
+tidy_data columns 
 Subject						Subject number
 Activity					Type of activity done
 tBodyAcc.mean...X			Time Domain Body Acceleration Mean X
